@@ -1,4 +1,4 @@
-%john mathews
+%john mathews 98/100
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ECE3520/CpSc3520 SDE1: Prolog Declarative and Logic Programming
 
